@@ -1,3 +1,4 @@
-Develop in C language our own library
+LIBFT 42_SCHOOL_PROJECT
 
-Allowed external function : write, malloc, free
+- Develop in C language our own library
+- Allowed external function : write, malloc, free
